@@ -37,4 +37,4 @@ It is also easier to modify a preexisting note in the app.
 </table>
 
 ## Project working screenshort
-<img width="200px" src="https://github.com/vikastiwari9160/summerproject/blob/master/project%20working%20Screen%20short.png">
+<img src="https://github.com/vikastiwari9160/summerproject/blob/master/project%20working%20Screen%20short.png">
